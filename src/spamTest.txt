@@ -1,0 +1,38 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: migueltkd.rj@gmail.com
+Received: by 10.112.6.232 with SMTP id e8csp252845lba;
+        Wed, 7 Aug 2013 01:54:17 -0700 (PDT)
+X-Received: by 10.68.58.97 with SMTP id p1mr2470488pbq.144.1375865656054;
+        Wed, 07 Aug 2013 01:54:16 -0700 (PDT)
+Return-Path: <puusk@lrphey.net>
+Received: from static-186.215.97.14-tataidc.co.in ([14.97.215.186])
+        by mx.google.com with ESMTP id os4si5247264pac.207.2013.08.07.01.54.14
+        for <migueltkd.rj@gmail.com>;
+        Wed, 07 Aug 2013 01:54:16 -0700 (PDT)
+Received-SPF: neutral (google.com: 14.97.215.186 is neither permitted nor denied by best guess record for domain of puusk@lrphey.net) client-ip=14.97.215.186;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 14.97.215.186 is neither permitted nor denied by best guess record for domain of puusk@lrphey.net) smtp.mail=puusk@lrphey.net
+Date: Wed, 07 Aug 2013 01:54:16 -0700 (PDT)
+Received: by web.lrphey.net (Postfix, from userid 93)
+	id RD77T39258F; Wed, 7 Aug 2013 02:24:16 +0500
+From: Go here <puusk@lrphey.net>
+To: <migueltkd.rj@gmail.com>
+Subject: Really wanting tons shed off a few pounds fast?
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 8bi
+Precedence: bulk
+Message-Id: <201308070854.SD48T84678E@web.lrphey.net>
+
+<html>
+<body>
+<br><h3>
+Really wanting tons shed off a few pounds fast?<br><br><br>
+<form target="_blank" name="form2386" method="get" action="http://sedatkoc.com.tr/pp2.html" ><input style="border:0px 
+currentColor;color:blue;font-weight:bolder;font-size:large;text-decoration:underline;cursor:pointer;background-color:transparent;" 
+id="yiv1528udmwea" name="q" value="Click here versia 1" type="submit">
+<br><h3><b><br><a href="http://sedatkoc.com.tr/pp2.html" style="color: red">Click here versia 2</a></b></h3>
+ 
+<br>
+</body>
+</html>
