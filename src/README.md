@@ -1,4 +1,0 @@
-SPAMta
-======
-
-Classificador de SPAM
